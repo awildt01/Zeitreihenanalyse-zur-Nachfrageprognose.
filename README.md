@@ -34,7 +34,7 @@ die Vorhersagegenauigkeit sowohl während der Optimierung als auch auf Testdaten
 * [Blog](https://sigmoidal.ai)
 
 ### Beschaffung der Daten
-Alle hier verwendeten Daten wurden von Rafael Duarte und Sigmoidal zu verfügung gestellt.
+Alle hier verwendeten Daten wurden von [Rafael Duarte](https://www.linkedin.com/in/rafael-n-duarte/?source=user_about----------------------95e660a7ce9---------------) und Sigmoidal zu verfügung gestellt.
 
 Für diese anfängliche explorative Analyse wird nur die folgende Datei heruntergeladen:
 
