@@ -56,8 +56,6 @@ Ihr spezifischer Bedarf besteht darin, den Teil der Verkaufsprognose zu verfeine
 Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
 Die folgenden schritt werden in der Analyse durch durchgeführt
 
-Projektstruktur
-
 **1.  Datenvorbereitung**
 
 - 1.1 Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
