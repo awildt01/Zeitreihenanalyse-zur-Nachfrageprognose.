@@ -80,18 +80,18 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 
 Basierend auf den Ergebnissen der Prognose und der Bewertung können wir Empfehlungen für die Bestandsverwaltung ableiten:
 
++ Bestverkaufte Produkte des Geschäfts und deren Anteil am Geschäftserfolg.
 + Bestandsoptimierung: Anpassung der Bestellmengen basierend auf den prognostizierten Verkäufen.
++ Rentabilität pro Bestellung, durchschnittliche Versandkosten und durchschnittlicher Betrag, den Kunden ausgeben.
++ Wie beeinflussen verschiedene Monate und Jahreszeiten Ihre Verkäufe?
 + Saisonale Anpassungen: Erhöhung des Bestands in Zeiten mit hoher Nachfrage.
 + Lagerverwaltung: Verbesserung der Lagerverwaltung, um Engpässe zu vermeiden.
-+ Welcher Viertel ist im Datensatz am teuersten?
-+ Was ist der Durchschnittspreis für Mieten?
-+ Welcher Host hat die meisten Anzeigen?
-+ Was ist der Durchschnitt der Mindestaufenthaltsdauer für Mietwohnungen (minimum_nights)?
-+ Sind Immobilien im Besitz einzelner Nutzer oder gibt es Nutzer mit mehreren Mietobjekten (d. h. potenziell für Spekulationen)?
++ Welche Artikel brauchen länger, um verkauft zu werden?
++ Wie verhält sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
++ Bestverkaufte Produkte des Geschäfts und deren Anteil am Geschäftserfolg.
 
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
-
 
 
 
