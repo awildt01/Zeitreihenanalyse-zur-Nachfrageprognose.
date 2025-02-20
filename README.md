@@ -56,87 +56,36 @@ Ihr spezifischer Bedarf besteht darin, den Teil der Verkaufsprognose zu verfeine
 Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
 Die folgenden schritt werden in der Analyse durch durchgeführt
 
-Projektschritte
-
-1. Daten laden
-
-Einlesen der Verkaufsdaten aus der bereitgestellten Quelle (CSV, Datenbank etc.).
-
-2. Datenüberblick
-
-Erster Blick auf die Datenstruktur (Anzeigen der ersten Zeilen, Spaltennamen und Datentypen).
-
-Identifikation relevanter Variablen (Datum, Verkaufszahlen, Produktmerkmale etc.).
-
-3. Datenbereinigung
-
-Behandlung fehlender Werte (Imputation oder Entfernung).
-
-Entfernung von Dubletten.
-
-Umgang mit möglichen Ausreißern in den Verkaufszahlen.
-
-4. Transformation der Daten
-
-Umwandlung der Verkaufsdaten in eine stationäre Zeitreihe (falls erforderlich, durch Differenzierung oder logarithmische Transformation).
-
-Erstellung von Dummy-Variablen (One-Hot-Encoding) für kategorische Merkmale wie Feiertage, Produzenten, Länder und Regionen.
+Projektstruktur
+1- Datenvorbereitung
+1.1 Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
+1.2 Erste Datenanalyse: Überblick über Spalten, Datentypen und erste visuelle Inspektion.
+1.3 Datenbereinigung: Behandlung fehlender Werte, Entfernen von Dubletten und Identifikation von Ausreißern.
 
 Explorative Datenanalyse (EDA)
-
-Berechnung grundlegender statistischer Maße (Durchschnitt, Median, Standardabweichung, Quartile etc.).
-
-Visualisierung der Daten durch Diagramme (Zeitreihenplots, Histogramme, Boxplots etc.).
-
-Untersuchung saisonaler Muster und Trends.
-
-Korrelationsanalyse zwischen den Variablen (z. B. Einfluss von Feiertagen oder Rabatten auf den Umsatz).
+2.1 Deskriptive Statistik: Berechnung von Mittelwert, Median, Standardabweichung etc.
+2.2 Datenvisualisierung: Erstellen von Diagrammen zur Verteilung und Trends der Verkaufszahlen.
+2.3 Korrelationsanalyse: Untersuchung der Beziehungen zwischen verschiedenen Variablen.
 
 Feature Engineering
+3.1 Erstellung von Dummy-Variablen: Umwandlung von kategorischen Variablen in numerische Werte (One-Hot-Encoding).
+3.2 Hinzufügen externer Regressoren: Berücksichtigung von Feiertagen, Produzenten, Ländern und Regionen als erklärende Variablen.
+3.3 Erstellung zeitbasierter Features: Z. B. Wochentag, Monat, Quartal, Feiertage oder saisonale Effekte.
 
-Einfügen externer Faktoren wie Feiertage, Wetter oder Promotionen als zusätzliche Regressoren für Prophet.
+Modellierung mit Facebook Prophet
+4.1 Modellerstellung: Definition des Prophet-Modells mit saisonalen Komponenten und Regressoren.
+4.2 Hyperparameter-Tuning mit Optuna: Optimierung von changepoint_prior_scale und seasonality_prior_scale zur Verbesserung der Vorhersagegenauigkeit.
+4.3 Train-Test-Split: Aufteilung der Daten für Modelltraining und Evaluierung.
 
-Erstellung zusätzlicher Features basierend auf bisherigen Mustern (z. B. rollierende Mittelwerte, Wochentagseffekte).
+Modellbewertung
+5.1 Cross-Validation (Zeitreihen-Validierung): Evaluierung des Modells mit zeitbasierten Splits.
+5.2 Fehlermetriken berechnen: MAPE, MAE und RMSE zur Beurteilung der Modellleistung.
+5.3 Ergebnisse visualisieren: Vergleich der Vorhersagen mit den tatsächlichen Verkaufswerten.
 
-Modellentwicklung mit Facebook Prophet
-
-Erstellung des Prophet-Modells mit initialen Parametern.
-
-Einbindung saisonaler Komponenten (jährliche, wöchentliche und tägliche Muster).
-
-Integration externer Regressoren zur Verbesserung der Vorhersagen.
-
-Training des Modells auf historischen Daten.
-
-Hyperparameter-Tuning mit Optuna
-
-Optimierung wichtiger Modellparameter wie changepoint_prior_scale und seasonality_prior_scale.
-
-Nutzung einer zielgerichteten Suche nach den besten Parametern basierend auf den Evaluationsmetriken (MAPE, MAE).
-
-Cross-Validation zur Modellauswertung
-
-Anwendung der Zeitreihen-Cross-Validation zur robusten Bewertung der Modellgüte.
-
-Vergleich der Vorhersagen mit den tatsächlichen Verkaufszahlen.
-
-Identifikation möglicher Overfitting-Probleme.
-
-Ergebnisse und Interpretation
-
-Visualisierung der Prognoseergebnisse.
-
-Berechnung und Bewertung der Modellmetriken (MAPE, MAE, RMSE).
-
-Analyse der saisonalen Effekte und Einflussfaktoren.
-
-Modellbereitstellung und Empfehlung
-
-Erstellung eines Dashboards oder einer API für die Prognosen.
-
-Ableitung von Handlungsempfehlungen basierend auf den Analyseergebnissen.
-
-Bewertung der Vorhersagequalität und mögliche Anpassungen für eine bessere Zukunftsprognose.
+Erkenntnisse & Optimierung
+6.1 Analyse der Ergebnisse: Identifikation von Verbesserungspotenzialen.
+6.2 Modellanpassungen: Feinabstimmung der Hyperparameter und Feature-Engineering zur Optimierung.
+6.3 Dokumentation & Fazit: Zusammenfassung der wichtigsten Erkenntnisse und zukünftige Optimierungsmöglichkeiten.
 
 
 
