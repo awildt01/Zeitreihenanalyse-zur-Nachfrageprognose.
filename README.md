@@ -58,11 +58,11 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 
 **1.  Datenvorbereitung**
 
-   1.1 Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
+   1.1- Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
 
-   1.2 Erste Datenanalyse: Überblick über Spalten, Datentypen und erste visuelle Inspektion.
+   1.2- Erste Datenanalyse: Überblick über Spalten, Datentypen und erste visuelle Inspektion.
 
-   1.3 Datenbereinigung: Behandlung fehlender Werte, Entfernen von Dubletten und Identifikation von Ausreißern.
+   1.3- Datenbereinigung: Behandlung fehlender Werte, Entfernen von Dubletten und Identifikation von Ausreißern.
 
 **2. Explorative Datenanalyse (EDA)**
 
