@@ -115,8 +115,8 @@ Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich geziel
 
 
 1. Welche Produkte sind die Bestseller, und welchen Beitrag leisten sie zum Geschäftserfolg?
-   - Identifikation der umsatzstärksten Produkte zur gezielten Sortimentssteuerung.
-   - Fokus auf die Optimierung der Bestände dieser Artikel, um Nachfragespitzen abzudecken.
+   + Identifikation der umsatzstärksten Produkte zur gezielten Sortimentssteuerung.
+   + Fokus auf die Optimierung der Bestände dieser Artikel, um Nachfragespitzen abzudecken.
 
 Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Geschäfts, minimieren Risiken und maximieren die Rentabilität durch eine optimierte Bestandsplanung.
 
