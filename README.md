@@ -56,19 +56,89 @@ Ihr spezifischer Bedarf besteht darin, den Teil der Verkaufsprognose zu verfeine
 Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
 Die folgenden schritt werden in der Analyse durch durchgeführt
 
-1. Data Laden 
+Projektschritte
 
-2. Datenüberblick: Ersten Blick auf die Daten, um deren Struktur und Größe zu verstehen. Anzeigen der ersten Zeilen, Spaltennamen und Datentypen.
+1. Daten laden
 
-3. Datenbereinigung: Identifizieren und behandeln von fehlende Werte, Dubletten oder Ausreißer.
+Einlesen der Verkaufsdaten aus der bereitgestellten Quelle (CSV, Datenbank etc.).
 
-4. Deskriptive Statistiken: Berechnung grundlegender statistischer Maße wie Durchschnitt, Median, Standardabweichung und Quartile, um ein besseres Verständnis der Verteilung der Daten zu erhalten.
-  
-5. Datenvisualisierung: Erstellung vom Diagramme, Grafiken und Plots, um die Verteilung und Beziehungen zwischen den Variablen zu visualisieren.
+2. Datenüberblick
 
-6. Korrelationsanalyse: Untersuchung von Korrelationen zwischen verschiedenen Variablen, um festzustellen, ob starke Beziehungen vorhanden sind.
+Erster Blick auf die Datenstruktur (Anzeigen der ersten Zeilen, Spaltennamen und Datentypen).
 
-7. Hypothesenbildung: Auf der Grundlage von Beobachtungen und Analysen werden angenommen, wie verschiedene Faktoren miteinander in Beziehung stehen
+Identifikation relevanter Variablen (Datum, Verkaufszahlen, Produktmerkmale etc.).
+
+3. Datenbereinigung
+
+Behandlung fehlender Werte (Imputation oder Entfernung).
+
+Entfernung von Dubletten.
+
+Umgang mit möglichen Ausreißern in den Verkaufszahlen.
+
+4. Transformation der Daten
+
+Umwandlung der Verkaufsdaten in eine stationäre Zeitreihe (falls erforderlich, durch Differenzierung oder logarithmische Transformation).
+
+Erstellung von Dummy-Variablen (One-Hot-Encoding) für kategorische Merkmale wie Feiertage, Produzenten, Länder und Regionen.
+
+Explorative Datenanalyse (EDA)
+
+Berechnung grundlegender statistischer Maße (Durchschnitt, Median, Standardabweichung, Quartile etc.).
+
+Visualisierung der Daten durch Diagramme (Zeitreihenplots, Histogramme, Boxplots etc.).
+
+Untersuchung saisonaler Muster und Trends.
+
+Korrelationsanalyse zwischen den Variablen (z. B. Einfluss von Feiertagen oder Rabatten auf den Umsatz).
+
+Feature Engineering
+
+Einfügen externer Faktoren wie Feiertage, Wetter oder Promotionen als zusätzliche Regressoren für Prophet.
+
+Erstellung zusätzlicher Features basierend auf bisherigen Mustern (z. B. rollierende Mittelwerte, Wochentagseffekte).
+
+Modellentwicklung mit Facebook Prophet
+
+Erstellung des Prophet-Modells mit initialen Parametern.
+
+Einbindung saisonaler Komponenten (jährliche, wöchentliche und tägliche Muster).
+
+Integration externer Regressoren zur Verbesserung der Vorhersagen.
+
+Training des Modells auf historischen Daten.
+
+Hyperparameter-Tuning mit Optuna
+
+Optimierung wichtiger Modellparameter wie changepoint_prior_scale und seasonality_prior_scale.
+
+Nutzung einer zielgerichteten Suche nach den besten Parametern basierend auf den Evaluationsmetriken (MAPE, MAE).
+
+Cross-Validation zur Modellauswertung
+
+Anwendung der Zeitreihen-Cross-Validation zur robusten Bewertung der Modellgüte.
+
+Vergleich der Vorhersagen mit den tatsächlichen Verkaufszahlen.
+
+Identifikation möglicher Overfitting-Probleme.
+
+Ergebnisse und Interpretation
+
+Visualisierung der Prognoseergebnisse.
+
+Berechnung und Bewertung der Modellmetriken (MAPE, MAE, RMSE).
+
+Analyse der saisonalen Effekte und Einflussfaktoren.
+
+Modellbereitstellung und Empfehlung
+
+Erstellung eines Dashboards oder einer API für die Prognosen.
+
+Ableitung von Handlungsempfehlungen basierend auf den Analyseergebnissen.
+
+Bewertung der Vorhersagequalität und mögliche Anpassungen für eine bessere Zukunftsprognose.
+
+
 
 
 
