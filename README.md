@@ -50,6 +50,7 @@ Im Wesentlichen entwickelt das Unternehmen eine auf maschinellem Lernen basieren
 
 Ihr spezifischer Bedarf besteht darin, den Teil der Verkaufsprognose zu verfeinern, der die einzigartigen Herausforderungen der Weinwelt und die spezifischen Anforderungen ihres Produkts berücksichtigt.
 
+<br>
 
 ### Projektstruktur
 
@@ -106,6 +107,8 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
        6.3 Dokumentation & Fazit: Zusammenfassung der wichtigsten Erkenntnisse und zukünftige Optimierungsmöglichkeiten.
 
 
+<br>
+
 
 
 ### Analysis 
@@ -152,7 +155,7 @@ Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Ges
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
 
-
+<br>
 
 ### Insight
 
