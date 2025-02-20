@@ -113,32 +113,32 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich gezielte Maßnahmen zur Optimierung der Bestandsverwaltung und Verkaufsstrategie ableiten. Die Analyse beantwortet zentrale.
 
 
-1. Welche Produkte sind die Bestseller, und welchen Beitrag leisten sie zum Geschäftserfolg?
+**1. Welche Produkte sind die Bestseller, und welchen Beitrag leisten sie zum Geschäftserfolg?**
    
        + Identifikation der umsatzstärksten Produkte zur gezielten Sortimentssteuerung.
        + Fokus auf die Optimierung der Bestände dieser Artikel, um Nachfragespitzen abzudecken.
   
-2. Wie kann die Bestandsverwaltung verbessert werden?
+**2. Wie kann die Bestandsverwaltung verbessert werden?**
    
        + Anpassung der Bestellmengen basierend auf den Verkaufsprognosen, um Überbestände und Engpässe zu vermeiden.
        + Implementierung datengetriebener Lagerstrategien für eine effizientere Kapitalbindung.
 
-3. Wie rentabel sind einzelne Bestellungen?
+**3. Wie rentabel sind einzelne Bestellungen?**
    
        + Analyse der Rentabilität pro Bestellung unter Berücksichtigung von durchschnittlichen Versandkosten und Warenkorbwerten.
        + Optimierung von Rabatt- und Lieferstrategien zur Steigerung der Gewinnmargen.
      
-4. Welchen Einfluss haben verschiedene Monate und Jahreszeiten auf den Umsatz?
+**4. Welchen Einfluss haben verschiedene Monate und Jahreszeiten auf den Umsatz?**
    
        + Identifikation saisonaler Nachfragemuster zur besseren Planung von Marketing- und Verkaufsstrategien.
        + Erhöhung des Lagerbestands in Hochsaison-Phasen, um Nachfragespitzen abzudecken.
      
-5. Welche Artikel haben eine längere Verkaufsdauer?
+**5. Welche Artikel haben eine längere Verkaufsdauer?**
     
        + Ermittlung von Produkten mit niedriger Umschlagshäufigkeit, um gezielte Verkaufsförderungen oder Sortimentsanpassungen vorzunehmen.
        + Reduzierung von Ladenhütern durch gezielte Preisstrategien oder Marketingmaßnahmen.
       
-6. Wie entwickelt sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
+**6. Wie entwickelt sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?**
     
         + Vergleich der aktuellen Verkaufszahlen mit historischen Daten zur Identifikation von Wachstumstrends oder Rückgängen.
         + Nutzung dieser Erkenntnisse zur langfristigen Strategieplanung und Angebotsoptimierung.
