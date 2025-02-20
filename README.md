@@ -24,7 +24,7 @@ Absolute Percentage Error) und MAE (Mean Absolute Error), um
 die Vorhersagegenauigkeit sowohl während der Optimierung als auch 
 auf Testdaten zu messen. 
 
-
+<br>
 <p align=center>
 <img src="https://github.com/rafaelnduarte/sigmoidal_data/blob/master/Screen%20Shot%202021-04-01%20at%2012.04.22.png?raw=true" width="70%"></p>
 <br/>
