@@ -146,6 +146,8 @@ Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich geziel
 Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Geschäfts, minimieren Risiken und maximieren die Rentabilität durch eine optimierte Bestandsplanung.
 
 
+
+
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
 
