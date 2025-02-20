@@ -10,9 +10,7 @@ Zeitreihenanalyse-zur-Nachfrageprognose.
 # Alexandre Wildt Graziani 
 <sub>*Lead Data Scientist*</sub>
 
-<p align=center>
-<img src="https://github.com/rafaelnduarte/sigmoidal_data/blob/master/Screen%20Shot%202021-04-01%20at%2012.04.22.png?raw=true" width="70%"></p>
-<br/>
+
 
 
 Dieses Projekt zielt darauf ab, ein Vorhersagemodell für die Weinindustrie zu
@@ -24,7 +22,13 @@ Cross-Validation (Zeitreihen-Validierung) bewertet wird. Die
 Hauptmetriken zur Modellbewertung sind MAPE (Mean  
 Absolute Percentage Error) und MAE (Mean Absolute Error), um 
 die Vorhersagegenauigkeit sowohl während der Optimierung als auch 
-auf Testdaten zu messen.
+auf Testdaten zu messen. 
+
+
+<p align=center>
+<img src="https://github.com/rafaelnduarte/sigmoidal_data/blob/master/Screen%20Shot%202021-04-01%20at%2012.04.22.png?raw=true" width="70%"></p>
+<br/>
+
 
 **Links:**
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
