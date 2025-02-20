@@ -123,9 +123,17 @@ Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich geziel
  + Implementierung datengetriebener Lagerstrategien für eine effizientere Kapitalbindung.
 
 3. Wie rentabel sind einzelne Bestellungen?
+   + Analyse der Rentabilität pro Bestellung unter Berücksichtigung von durchschnittlichen Versandkosten und Warenkorbwerten.
+   + Optimierung von Rabatt- und Lieferstrategien zur Steigerung der Gewinnmargen.
+     
 4. Welchen Einfluss haben verschiedene Monate und Jahreszeiten auf den Umsatz?
+   + Identifikation saisonaler Nachfragemuster zur besseren Planung von Marketing- und Verkaufsstrategien.
+   + Erhöhung des Lagerbestands in Hochsaison-Phasen, um Nachfragespitzen abzudecken.
+     
 5. Welche Artikel haben eine längere Verkaufsdauer?
-6. Wie entwickelt sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
+    +Ermittlung von Produkten mit niedriger Umschlagshäufigkeit, um gezielte Verkaufsförderungen oder Sortimentsanpassungen vorzunehmen.
+    +Reduzierung von Ladenhütern durch gezielte Preisstrategien oder Marketingmaßnahmen.
+7. Wie entwickelt sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
 
 Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Geschäfts, minimieren Risiken und maximieren die Rentabilität durch eine optimierte Bestandsplanung.
 
