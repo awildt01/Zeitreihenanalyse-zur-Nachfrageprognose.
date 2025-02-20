@@ -103,16 +103,6 @@ Projektstruktur
 
 Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich gezielte Maßnahmen zur Optimierung der Bestandsverwaltung und Verkaufsstrategie ableiten. Die Analyse beantwortet zentrale.
 
-+ Bestverkaufte Produkte des Geschäfts und deren Anteil am Geschäftserfolg.
-+ Bestandsoptimierung: Anpassung der Bestellmengen basierend auf den prognostizierten Verkäufen.
-+ Rentabilität pro Bestellung, durchschnittliche Versandkosten und durchschnittlicher Betrag, den Kunden ausgeben.
-+ Wie beeinflussen verschiedene Monate und Jahreszeiten Ihre Verkäufe?
-+ Saisonale Anpassungen: Erhöhung des Bestands in Zeiten mit hoher Nachfrage.
-+ Lagerverwaltung: Verbesserung der Lagerverwaltung, um Engpässe zu vermeiden.
-+ Welche Artikel brauchen länger, um verkauft zu werden?
-+ Wie verhält sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
-+ Bestverkaufte Produkte des Geschäfts und deren Anteil am Geschäftserfolg.
-
 
 1. Welche Produkte sind die Bestseller, und welchen Beitrag leisten sie zum Geschäftserfolg?
    + Identifikation der umsatzstärksten Produkte zur gezielten Sortimentssteuerung.
@@ -131,9 +121,12 @@ Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich geziel
    + Erhöhung des Lagerbestands in Hochsaison-Phasen, um Nachfragespitzen abzudecken.
      
 5. Welche Artikel haben eine längere Verkaufsdauer?
-    +Ermittlung von Produkten mit niedriger Umschlagshäufigkeit, um gezielte Verkaufsförderungen oder Sortimentsanpassungen vorzunehmen.
-    +Reduzierung von Ladenhütern durch gezielte Preisstrategien oder Marketingmaßnahmen.
-7. Wie entwickelt sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
+    + Ermittlung von Produkten mit niedriger Umschlagshäufigkeit, um gezielte Verkaufsförderungen oder Sortimentsanpassungen vorzunehmen.
+    + Reduzierung von Ladenhütern durch gezielte Preisstrategien oder Marketingmaßnahmen.
+      
+6. Wie entwickelt sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
+     + Vergleich der aktuellen Verkaufszahlen mit historischen Daten zur Identifikation von Wachstumstrends oder Rückgängen.
+     + Nutzung dieser Erkenntnisse zur langfristigen Strategieplanung und Angebotsoptimierung.
 
 Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Geschäfts, minimieren Risiken und maximieren die Rentabilität durch eine optimierte Bestandsplanung.
 
