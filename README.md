@@ -51,7 +51,7 @@ Im Wesentlichen entwickelt das Unternehmen eine auf maschinellem Lernen basieren
 Ihr spezifischer Bedarf besteht darin, den Teil der Verkaufsprognose zu verfeinern, der die einzigartigen Herausforderungen der Weinwelt und die spezifischen Anforderungen ihres Produkts berücksichtigt.
 
 
-### Projekt 
+### Projektstruktur
 
 Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
 Die folgenden schritt werden in der Analyse durch durchgeführt
@@ -66,31 +66,31 @@ Projektstruktur
 
 - 1.3 Datenbereinigung: Behandlung fehlender Werte, Entfernen von Dubletten und Identifikation von Ausreißern.
 
-Explorative Datenanalyse (EDA)
+**2. Explorative Datenanalyse (EDA)**
 
-2.1 Deskriptive Statistik: Berechnung von Mittelwert, Median, Standardabweichung etc.
-2.2 Datenvisualisierung: Erstellen von Diagrammen zur Verteilung und Trends der Verkaufszahlen.
-2.3 Korrelationsanalyse: Untersuchung der Beziehungen zwischen verschiedenen Variablen.
+- 2.1 Deskriptive Statistik: Berechnung von Mittelwert, Median, Standardabweichung etc.
+- 2.2 Datenvisualisierung: Erstellen von Diagrammen zur Verteilung und Trends der Verkaufszahlen.
+- 2.3 Korrelationsanalyse: Untersuchung der Beziehungen zwischen verschiedenen Variablen.
 
-Feature Engineering
-3.1 Erstellung von Dummy-Variablen: Umwandlung von kategorischen Variablen in numerische Werte (One-Hot-Encoding).
-3.2 Hinzufügen externer Regressoren: Berücksichtigung von Feiertagen, Produzenten, Ländern und Regionen als erklärende Variablen.
-3.3 Erstellung zeitbasierter Features: Z. B. Wochentag, Monat, Quartal, Feiertage oder saisonale Effekte.
+**3. Feature Engineering**
+- 3.1 Erstellung von Dummy-Variablen: Umwandlung von kategorischen Variablen in numerische Werte (One-Hot-Encoding).
+- 3.2 Hinzufügen externer Regressoren: Berücksichtigung von Feiertagen, Produzenten, Ländern und Regionen als erklärende Variablen.
+- 3.3 Erstellung zeitbasierter Features: Z. B. Wochentag, Monat, Quartal, Feiertage oder saisonale Effekte.
 
-Modellierung mit Facebook Prophet
-4.1 Modellerstellung: Definition des Prophet-Modells mit saisonalen Komponenten und Regressoren.
-4.2 Hyperparameter-Tuning mit Optuna: Optimierung von changepoint_prior_scale und seasonality_prior_scale zur Verbesserung der Vorhersagegenauigkeit.
-4.3 Train-Test-Split: Aufteilung der Daten für Modelltraining und Evaluierung.
+4. Modellierung mit Facebook Prophet
+- 4.1 Modellerstellung: Definition des Prophet-Modells mit saisonalen Komponenten und Regressoren.
+- 4.2 Hyperparameter-Tuning mit Optuna: Optimierung von changepoint_prior_scale und seasonality_prior_scale zur Verbesserung der Vorhersagegenauigkeit.
+- 4.3 Train-Test-Split: Aufteilung der Daten für Modelltraining und Evaluierung.
 
-Modellbewertung
-5.1 Cross-Validation (Zeitreihen-Validierung): Evaluierung des Modells mit zeitbasierten Splits.
-5.2 Fehlermetriken berechnen: MAPE, MAE und RMSE zur Beurteilung der Modellleistung.
-5.3 Ergebnisse visualisieren: Vergleich der Vorhersagen mit den tatsächlichen Verkaufswerten.
+5. Modellbewertung
+- 5.1 Cross-Validation (Zeitreihen-Validierung): Evaluierung des Modells mit zeitbasierten Splits.
+- 5.2 Fehlermetriken berechnen: MAPE, MAE und RMSE zur Beurteilung der Modellleistung.
+- 5.3 Ergebnisse visualisieren: Vergleich der Vorhersagen mit den tatsächlichen Verkaufswerten.
 
-Erkenntnisse & Optimierung
-6.1 Analyse der Ergebnisse: Identifikation von Verbesserungspotenzialen.
-6.2 Modellanpassungen: Feinabstimmung der Hyperparameter und Feature-Engineering zur Optimierung.
-6.3 Dokumentation & Fazit: Zusammenfassung der wichtigsten Erkenntnisse und zukünftige Optimierungsmöglichkeiten.
+6. Erkenntnisse & Optimierung
+- 6.1 Analyse der Ergebnisse: Identifikation von Verbesserungspotenzialen.
+- 6.2 Modellanpassungen: Feinabstimmung der Hyperparameter und Feature-Engineering zur Optimierung.
+- 6.3 Dokumentation & Fazit: Zusammenfassung der wichtigsten Erkenntnisse und zukünftige Optimierungsmöglichkeiten.
 
 
 
