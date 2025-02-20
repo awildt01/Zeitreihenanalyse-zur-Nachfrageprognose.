@@ -152,8 +152,11 @@ Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich geziel
 
 
 <br>
-**Background in:** Python, Machine Learning and Mathematical Optimisation.
+**Background in:** Python, Machine Learning and Mathematical Optimisation.**
 <br>
+<br>
+
+
 
 ### Insight
 
