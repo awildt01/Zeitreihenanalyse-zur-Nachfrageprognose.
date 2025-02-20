@@ -101,8 +101,7 @@ Projektstruktur
 
 ### Analysis 
 
-
-Basierend auf den Ergebnissen der Prognose und der Bewertung können wir Empfehlungen für die Bestandsverwaltung ableiten:
+Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich gezielte Maßnahmen zur Optimierung der Bestandsverwaltung und Verkaufsstrategie ableiten. Die Analyse beantwortet zentrale.
 
 + Bestverkaufte Produkte des Geschäfts und deren Anteil am Geschäftserfolg.
 + Bestandsoptimierung: Anpassung der Bestellmengen basierend auf den prognostizierten Verkäufen.
@@ -113,6 +112,13 @@ Basierend auf den Ergebnissen der Prognose und der Bewertung können wir Empfehl
 + Welche Artikel brauchen länger, um verkauft zu werden?
 + Wie verhält sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
 + Bestverkaufte Produkte des Geschäfts und deren Anteil am Geschäftserfolg.
+
+
+1. Welche Produkte sind die Bestseller, und welchen Beitrag leisten sie zum Geschäftserfolg?
+   - Identifikation der umsatzstärksten Produkte zur gezielten Sortimentssteuerung.
+   - Fokus auf die Optimierung der Bestände dieser Artikel, um Nachfragespitzen abzudecken.
+
+Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Geschäfts, minimieren Risiken und maximieren die Rentabilität durch eine optimierte Bestandsplanung.
 
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
