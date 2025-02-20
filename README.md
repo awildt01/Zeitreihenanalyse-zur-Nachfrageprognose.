@@ -38,7 +38,7 @@ Alle hier verwendeten Daten wurden von [Rafael Duarte](https://www.linkedin.com/
 
 Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkaufsdaten, die andere Informationen über die Weine. Beide Dateien wurden in der Cloud gespeichert:
 
-- products.csv - Die Weinkarte, auch die Produkte, ist echt und basiert auf dem tatsächlichen Angebot eines Wein-E-Commerce in den USA. Namen, Jahrgänge und Werte sind zu 100 % authentisch und wurden in US-Dollar umgerechnet, um eine internationale Reichweite zu gewährleisten.
+- products.csv – Weinkarte eines Wein-E-Commerce. Die Weinkarte sowie die darin enthaltenen Produkte basieren auf dem tatsächlichen Sortiment eines Wein-E-Commerce in den USA. Namen, Jahrgänge und Preise sind vollständig authentisch und wurden in US-Dollar umgerechnet, um eine internationale Vergleichbarkeit und Reichweite zu ermögliche
 - sales.csv - Dieser Datensatz umfasste ursprünglich 5 Jahre tägliche Verkäufe, verteilt auf 10 Geschäfte, mit einem Katalog von 50 Produkten. Er wurde jedoch geändert und umfasst nun 3 Jahre tägliche Verkäufe, verteilt auf 3 Geschäfte mit 219 verschiedenen Produkten auf Lager.
 
 
