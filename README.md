@@ -58,27 +58,27 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 
 **1.  Datenvorbereitung**
 
-     1.1 Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
+      1.1 Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
 
-     1.2 Erste Datenanalyse: Überblick über Spalten, Datentypen und erste visuelle Inspektion.
+      1.2 Erste Datenanalyse: Überblick über Spalten, Datentypen und erste visuelle Inspektion.
 
-     1.3 Datenbereinigung: Behandlung fehlender Werte, Entfernen von Dubletten und Identifikation von Ausreißern.
+      1.3 Datenbereinigung: Behandlung fehlender Werte, Entfernen von Dubletten und Identifikation von Ausreißern.
 
 **2. Explorative Datenanalyse (EDA)**
 
-     2.1  Deskriptive Statistik: Berechnung von Mittelwert, Median, Standardabweichung etc.
+      2.1  Deskriptive Statistik: Berechnung von Mittelwert, Median, Standardabweichung etc.
   
-     2.2  Datenvisualisierung: Erstellen von Diagrammen zur Verteilung und Trends der Verkaufszahlen.
+      2.2  Datenvisualisierung: Erstellen von Diagrammen zur Verteilung und Trends der Verkaufszahlen.
   
-     2.3  Korrelationsanalyse: Untersuchung der Beziehungen zwischen verschiedenen Variablen.
+      2.3  Korrelationsanalyse: Untersuchung der Beziehungen zwischen verschiedenen Variablen.
 
 **3. Feature Engineering**
 
-     3.1 Erstellung von Dummy-Variablen: Umwandlung von kategorischen Variablen in numerische Werte (One-Hot-Encoding).
+      3.1 Erstellung von Dummy-Variablen: Umwandlung von kategorischen Variablen in numerische Werte (One-Hot-Encoding).
   
-     3.2 Hinzufügen externer Regressoren: Berücksichtigung von Feiertagen, Produzenten, Ländern und Regionen als erklärende Variablen.
+      3.2 Hinzufügen externer Regressoren: Berücksichtigung von Feiertagen, Produzenten, Ländern und Regionen als erklärende Variablen.
   
-     3.3 Erstellung zeitbasierter Features: Z. B. Wochentag, Monat, Quartal, Feiertage oder saisonale Effekte.
+      3.3 Erstellung zeitbasierter Features: Z. B. Wochentag, Monat, Quartal, Feiertage oder saisonale Effekte.
 
 4. Modellierung mit Facebook Prophet
    
