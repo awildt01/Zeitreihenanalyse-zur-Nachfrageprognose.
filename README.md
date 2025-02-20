@@ -80,7 +80,7 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
   
          3.3 Erstellung zeitbasierter Features: Z. B. Wochentag, Monat, Quartal, Feiertage oder saisonale Effekte.
 
-4. Modellierung mit Facebook Prophet
+**4. Modellierung mit Facebook Prophet**
    
        4.1 Modellerstellung: Definition des Prophet-Modells mit saisonalen Komponenten und Regressoren.
    
@@ -89,7 +89,7 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
        4.3 Train-Test-Split: Aufteilung der Daten für Modelltraining und Evaluierung.
   
 
-5. Modellbewertung
+**5. Modellbewertung**
    
        5.1 Cross-Validation (Zeitreihen-Validierung): Evaluierung des Modells mit zeitbasierten Splits.
    
@@ -97,7 +97,7 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
   
        5.3 Ergebnisse visualisieren: Vergleich der Vorhersagen mit den tatsächlichen Verkaufswerten.
 
-6. Erkenntnisse & Optimierung
+**6. Erkenntnisse & Optimierung**
    
        6.1 Analyse der Ergebnisse: Identifikation von Verbesserungspotenzialen.
     
