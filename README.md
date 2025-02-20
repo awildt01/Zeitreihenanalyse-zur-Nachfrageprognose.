@@ -4,7 +4,7 @@ Zeitreihenanalyse-zur-Nachfrageprognose.
 
 
 <p align="center"> 
-  <img src="ogteaser.jpg">       
+  <img src="data-analytics-696x464.jpg">       
 </p>  
 
 # Alexandre Wildt Graziani 
