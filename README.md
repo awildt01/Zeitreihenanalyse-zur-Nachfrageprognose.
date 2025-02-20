@@ -36,7 +36,7 @@ die Vorhersagegenauigkeit sowohl während der Optimierung als auch auf Testdaten
 ### Beschaffung der Daten
 Alle hier verwendeten Daten wurden von [Rafael Duarte](https://www.linkedin.com/in/rafael-n-duarte/?source=user_about----------------------95e660a7ce9---------------) und Sigmoidal zu verfügung gestellt.
 
-Für diese anfängliche explorative Analyse wird nur die folgende Datei heruntergeladen:
+Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkaufsdaten, die andere Informationen über die Weine. Beide Dateien wurden in der Cloud gespeichert, falls sie nicht verfügbar sind oder Änderungen in der Zukunft vorgenommen werden. Diese gespeicherten Dateien werden im Code verwendet, um die Integrität der Studie zu gewährleisten.:
 
 - listings.csv - Zusammenfassende Informationen und Metriken für Angebote in Berlin (geeignet für Visualisierungen).
 Wichtig:  Die Website entwickelt sich ständig weiter, und es kann sein, dass zu einem bestimmten Zeitpunkt der genaue Datensatz, der in diesem Notebook verwendet wird, nicht mehr verfügbar ist, was unseren Code beeinträchtigen würde
