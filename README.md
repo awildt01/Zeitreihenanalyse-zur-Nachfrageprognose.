@@ -19,10 +19,8 @@ zu optimieren. Dabei wird Facebook Prophet als Zeitreihenmodell genutzt,
 um saisonale Muster und Trends zu erfassen. Zur Optimierung der 
 Modellparameter kommt Optuna zum Einsatz, während die Modellgüte mit 
 Cross-Validation (Zeitreihen-Validierung) bewertet wird. Die 
-Hauptmetriken zur Modellbewertung sind MAPE (Mean  
-Absolute Percentage Error) und MAE (Mean Absolute Error), um 
-die Vorhersagegenauigkeit sowohl während der Optimierung als auch 
-auf Testdaten zu messen. 
+Hauptmetriken zur Modellbewertung sind MAPE (Mean Absolute Percentage Error) und MAE (Mean Absolute Error), um 
+die Vorhersagegenauigkeit sowohl während der Optimierung als auch auf Testdaten zu messen. 
 
 <br>
 <p align=center>
