@@ -36,7 +36,7 @@ die Vorhersagegenauigkeit sowohl während der Optimierung als auch auf Testdaten
 ### Beschaffung der Daten
 Alle hier verwendeten Daten wurden von [Rafael Duarte](https://www.linkedin.com/in/rafael-n-duarte/?source=user_about----------------------95e660a7ce9---------------) und Sigmoidal zu verfügung gestellt.
 
-Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkaufsdaten, die andere Informationen über die Weine. Beide Dateien wurden in der Cloud gespeichert, falls sie nicht verfügbar sind oder Änderungen in der Zukunft vorgenommen werden. Diese gespeicherten Dateien werden im Code verwendet, um die Integrität der Studie zu gewährleisten.:
+Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkaufsdaten, die andere Informationen über die Weine. Beide Dateien wurden in der Cloud gespeichert:
 
 - products.csv - Die Weinkarte, auch die Produkte, ist echt und basiert auf dem tatsächlichen Angebot eines Wein-E-Commerce in den USA. Namen, Jahrgänge und Werte sind zu 100 % authentisch und wurden in US-Dollar umgerechnet, um eine internationale Reichweite zu gewährleisten.
 - sales.csv - Dieser Datensatz umfasste ursprünglich 5 Jahre tägliche Verkäufe, verteilt auf 10 Geschäfte, mit einem Katalog von 50 Produkten. Er wurde jedoch geändert und umfasst nun 3 Jahre tägliche Verkäufe, verteilt auf 3 Geschäfte mit 219 verschiedenen Produkten auf Lager.
