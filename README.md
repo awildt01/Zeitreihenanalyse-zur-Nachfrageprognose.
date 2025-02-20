@@ -78,11 +78,11 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 ### Analysis 
 
 
-Folgende Fragen werde ich durch der Analyse  beantworten:
+Basierend auf den Ergebnissen der Prognose und der Bewertung können wir Empfehlungen für die Bestandsverwaltung ableiten:
 
-+ Die ursprüngliche Idee von Airbnb bestand darin, ein Zimmer oder ein Mehrbettzimmer im eigenen Zuhause anzubieten. Ist das immer noch so?
-+ Welche Art von Immobilien wird auf Airbnb am häufigsten vermietet?
-+ Sind die Angebote gleichmäßig über die Stadtteile verteilt oder gibt es Hotspots?
++ Bestandsoptimierung: Anpassung der Bestellmengen basierend auf den prognostizierten Verkäufen.
++ Saisonale Anpassungen: Erhöhung des Bestands in Zeiten mit hoher Nachfrage.
++ Lagerverwaltung: Verbesserung der Lagerverwaltung, um Engpässe zu vermeiden.
 + Welcher Viertel ist im Datensatz am teuersten?
 + Was ist der Durchschnittspreis für Mieten?
 + Welcher Host hat die meisten Anzeigen?
