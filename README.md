@@ -148,6 +148,7 @@ Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Ges
 
 
 <br>
+
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
 
