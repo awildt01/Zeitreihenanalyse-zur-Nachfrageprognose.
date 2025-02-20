@@ -57,9 +57,12 @@ Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir
 Die folgenden schritt werden in der Analyse durch durchgeführt
 
 Projektstruktur
-1- Datenvorbereitung
+**1- Datenvorbereitung**
+
 1.1 Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
+
 1.2 Erste Datenanalyse: Überblick über Spalten, Datentypen und erste visuelle Inspektion.
+
 1.3 Datenbereinigung: Behandlung fehlender Werte, Entfernen von Dubletten und Identifikation von Ausreißern.
 
 Explorative Datenanalyse (EDA)
