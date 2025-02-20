@@ -148,7 +148,7 @@ Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich geziel
         
 <br>
 Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Geschäfts, minimieren Risiken und maximieren die Rentabilität durch eine optimierte Bestandsplanung.
-
+ 
 
 <br>
 <br>
