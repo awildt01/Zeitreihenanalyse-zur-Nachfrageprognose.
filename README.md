@@ -58,7 +58,7 @@ Die folgenden schritt werden in der Analyse durch durchgeführt
 
 **1.  Datenvorbereitung**
 
-   1.1- Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
+    1.1- Datenimport: Laden der Verkaufsdaten aus CSV-Dateien oder einer Datenbank.
 
    1.2- Erste Datenanalyse: Überblick über Spalten, Datentypen und erste visuelle Inspektion.
 
