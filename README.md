@@ -107,8 +107,8 @@ Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich geziel
    + Fokus auf die Optimierung der Bestände dieser Artikel, um Nachfragespitzen abzudecken.
   
 2. Wie kann die Bestandsverwaltung verbessert werden?
- + Anpassung der Bestellmengen basierend auf den Verkaufsprognosen, um Überbestände und Engpässe zu vermeiden.
- + Implementierung datengetriebener Lagerstrategien für eine effizientere Kapitalbindung.
+   + Anpassung der Bestellmengen basierend auf den Verkaufsprognosen, um Überbestände und Engpässe zu vermeiden.
+   + Implementierung datengetriebener Lagerstrategien für eine effizientere Kapitalbindung.
 
 3. Wie rentabel sind einzelne Bestellungen?
    + Analyse der Rentabilität pro Bestellung unter Berücksichtigung von durchschnittlichen Versandkosten und Warenkorbwerten.
