@@ -42,7 +42,7 @@ Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkau
 - sales.csv - Dieser Datensatz umfasste ursprünglich 5 Jahre tägliche Verkäufe, verteilt auf 10 Geschäfte, mit einem Katalog von 50 Produkten. Er wurde jedoch geändert und umfasst nun 3 Jahre tägliche Verkäufe, verteilt auf 3 Geschäfte mit 219 verschiedenen Produkten auf Lager.
 
 
-
+<br>
 
 ### Ziel 
 
