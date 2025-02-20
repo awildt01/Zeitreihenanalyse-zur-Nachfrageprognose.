@@ -11,9 +11,16 @@ Zeitreihenanalyse-zur-Nachfrageprognose.
 <sub>*Lead Data Scientist*</sub>   
 
 
-Airbnb hat erfolgreich die traditionelle Hotelbranche gestört, da immer mehr Reisende sich entscheiden, Airbnb als ihren Hauptunterkunftsanbieter zu nutzen. Seit seinem Beginn im Jahr 2008 hat Airbnb ein enormes Wachstum verzeichnet, wobei die Anzahl der auf seiner Website gelisteten Mietobjekte jedes Jahr exponentiell zunimmt. In Deutschland ist keine Stadt beliebter als Berlin. Das bedeutet, dass Berlin einer der heißesten Märkte für Airbnb in Europa ist, mit über 9060 Angeboten im Januar 2021.
-
-Die Analyse von Tausenden von Anzeigen, die über Airbnb bereitgestellt werden, ist ein entscheidender Faktor für das Unternehmen. Unser Hauptziel ist es, die wichtigsten Metriken zu ermitteln, die die Auflistung von Immobilien auf der Plattform beeinflussen. Zu diesem Zweck werden wir den Airbnb-Datensatz in Berlin mithilfe grundlegender Techniken der explorativen Datenanalyse (EDA) erkunden und visualisieren. Wir haben die Verteilung jeder Airbnb-Anzeige basierend auf ihrer Lage, einschließlich Preisbereich, Zimmertyp, Anzeigenname und anderen relevanten Faktoren, entdeckt. Wir haben diesen Datensatz aus verschiedenen Blickwinkeln analysiert und interessante Erkenntnisse gewonnen. Dies kann dem Marketingteam, dem Finanzteam und dem technischen Team von Airbnb bei datenbasierten strategischen Entscheidungen helfen.
+Dieses Projekt zielt darauf ab, ein Vorhersagemodell für die Weinindustrie zu
+ entwickeln, um die Bestellmengen basierend auf historischen Verkaufsdaten 
+zu optimieren. Dabei wird Facebook Prophet als Zeitreihenmodell genutzt, 
+um saisonale Muster und Trends zu erfassen. Zur Optimierung der 
+Modellparameter kommt Optuna zum Einsatz, während die Modellgüte mit 
+Cross-Validation (Zeitreihen-Validierung) bewertet wird. Die 
+Hauptmetriken zur Modellbewertung sind MAPE (Mean  
+Absolute Percentage Error) und MAE (Mean Absolute Error), um 
+die Vorhersagegenauigkeit sowohl während der Optimierung als auch 
+auf Testdaten zu messen.
 
 **Links:**
 * [Notebook](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
