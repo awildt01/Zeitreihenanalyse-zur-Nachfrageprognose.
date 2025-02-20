@@ -41,6 +41,9 @@ Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkau
 - products.csv - Die Weinkarte, auch die Produkte, ist echt und basiert auf dem tatsächlichen Angebot eines Wein-E-Commerce in den USA. Namen, Jahrgänge und Werte sind zu 100 % authentisch und wurden in US-Dollar umgerechnet, um eine internationale Reichweite zu gewährleisten.
 - sales.csv - Dieser Datensatz umfasste ursprünglich 5 Jahre tägliche Verkäufe, verteilt auf 10 Geschäfte, mit einem Katalog von 50 Produkten. Er wurde jedoch geändert und umfasst nun 3 Jahre tägliche Verkäufe, verteilt auf 3 Geschäfte mit 219 verschiedenen Produkten auf Lager.
 
+
+
+
 ### Ziel 
 
 Im Wesentlichen entwickelt das Unternehmen eine auf maschinellem Lernen basierende Lösung, um Weinhandlungen dabei zu helfen, ihre Bestände besser zu verwalten. Dazu gehört ein Modell, das die Nachfrage auf der Grundlage historischer Verkaufsdaten prognostiziert.
