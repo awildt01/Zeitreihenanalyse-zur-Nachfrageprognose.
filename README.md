@@ -117,6 +117,15 @@ Basierend auf den Prognoseergebnissen und der Modellbewertung lassen sich geziel
 1. Welche Produkte sind die Bestseller, und welchen Beitrag leisten sie zum Geschäftserfolg?
    + Identifikation der umsatzstärksten Produkte zur gezielten Sortimentssteuerung.
    + Fokus auf die Optimierung der Bestände dieser Artikel, um Nachfragespitzen abzudecken.
+  
+2. Wie kann die Bestandsverwaltung verbessert werden?
+ + Anpassung der Bestellmengen basierend auf den Verkaufsprognosen, um Überbestände und Engpässe zu vermeiden.
+ + Implementierung datengetriebener Lagerstrategien für eine effizientere Kapitalbindung.
+
+3. Wie rentabel sind einzelne Bestellungen?
+4. Welchen Einfluss haben verschiedene Monate und Jahreszeiten auf den Umsatz?
+5. Welche Artikel haben eine längere Verkaufsdauer?
+6. Wie entwickelt sich die aktuelle Nachfrage im Vergleich zu früheren Perioden?
 
 Diese datenbasierten Erkenntnisse ermöglichen eine präzisere Steuerung des Geschäfts, minimieren Risiken und maximieren die Rentabilität durch eine optimierte Bestandsplanung.
 
