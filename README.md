@@ -46,9 +46,9 @@ Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkau
 
 ### Ziel 
 
-Im Wesentlichen entwickelt das Unternehmen eine auf maschinellem Lernen basierende Lösung, um Weinhandlungen dabei zu helfen, ihre Bestände besser zu verwalten. Dazu gehört ein Modell, das die Nachfrage auf der Grundlage historischer Verkaufsdaten prognostiziert.
+Das Unternehmen entwickelt eine KI-gestützte Lösung zur Optimierung des Bestandsmanagements in Weinhandlungen. Im Kern steht ein Machine-Learning-Modell, das die zukünftige Nachfrage basierend auf historischen Verkaufsdaten präzise prognostiziert.
 
-Ihr spezifischer Bedarf besteht darin, den Teil der Verkaufsprognose zu verfeinern, der die einzigartigen Herausforderungen der Weinwelt und die spezifischen Anforderungen ihres Produkts berücksichtigt.
+Der Fokus liegt darauf, die Prognosemethodik weiter zu verfeinern, um den besonderen Herausforderungen des Weinmarktes gerecht zu werden. Dazu zählen Faktoren wie Jahrgangsschwankungen, saisonale Nachfrage, begrenzte Verfügbarkeit und Wertsteigerung einzelner Weine.
 
 <br>
 
