@@ -29,7 +29,7 @@ die Vorhersagegenauigkeit sowohl während der Optimierung als auch auf Testdaten
 
 
 **Links:**
-* [Notebook]()
+* [Notebook](https://colab.research.google.com/drive/1o_ijHL6dHLOSzrjyJuSo6KMShgGtTf9O?usp=sharing)
 * [Medium](https://medium.com/@alexandrewildtgraziani/analyse-der-airbnb-berlin-b002125a56f9)
 * [Blog](https://sigmoidal.ai)
 
