@@ -38,7 +38,25 @@ Alle hier verwendeten Daten wurden von [Rafael Duarte](https://www.linkedin.com/
 
 Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkaufsdaten, die andere Informationen über die Weine. Beide Dateien wurden in der Cloud gespeichert:
 
-- products.csv – Weinkarte eines Wein-E-Commerce. Die Weinkarte sowie die darin enthaltenen Produkte basieren auf dem tatsächlichen Sortiment eines Wein-E-Commerce in den USA. Namen, Jahrgänge und Preise sind vollständig authentisch und wurden in US-Dollar umgerechnet, um eine internationale Vergleichbarkeit und Reichweite zu ermögliche
+- products.csv
+
+ - country: país de origem do vinho
+
+- item_id: número de identificação do item
+
+- kind: tipo do vinho: sparkling: espumante, rose sparkling: espumante rosé, white: branco, rosé: rosé, red: tinto
+
+- name: nome do vinho
+
+- price_brl: preço em reais
+
+-  price_usd: preço em dólar americano
+
+- producer: nome do produtor do vinho
+
+- region: região de produção do vinho
+
+ - vintage: ano da safra
 - sales.csv - Dieser Datensatz umfasste ursprünglich 5 Jahre tägliche Verkäufe, verteilt auf 10 Geschäfte, mit einem Katalog von 50 Produkten. Er wurde jedoch geändert und umfasst nun 3 Jahre tägliche Verkäufe, verteilt auf 3 Geschäfte mit 219 verschiedenen Produkten auf Lager.
 
 
