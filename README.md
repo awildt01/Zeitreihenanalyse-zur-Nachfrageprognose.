@@ -38,7 +38,7 @@ Alle hier verwendeten Daten wurden von [Rafael Duarte](https://www.linkedin.com/
 
 Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkaufsdaten, die andere Informationen über die Weine. Beide Dateien wurden in der Cloud gespeichert:
 
-- products.csv
+**- products.csv**
 
  - country: país de origem do vinho
 
@@ -63,7 +63,7 @@ Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkau
 
 
   
-- sales.csv
+**- sales.csv**
   
 - item: número de identificação do item-
 
