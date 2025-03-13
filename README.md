@@ -58,6 +58,10 @@ Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkau
 
  - vintage: ano da safra
 
+<br>
+<br>
+
+
   
 - sales.csv
   
