@@ -56,7 +56,7 @@ Die Daten sind in zwei Dateien aufgeteilt: eine enthält die historischen Verkau
 
 - region: região de produção do vinho
 
- - vintage: ano da safra
+- vintage: ano da safra
 
 <br>
 <br>
@@ -95,7 +95,7 @@ Die Lösungspipeline basiert auf dem CRISP-DM-Framework:
 
 - Validierung 
 
-. Deployment
+- Deployment
 
 Das Ziel das Projekt ist eine explorative Datenanalyse (EDA) durchzuführen. Wir werden die ersten Einblick in der Daten erhalten, Muster identifizieren und Hypothesen aufstellen.
 Die folgenden schritt werden in der Analyse durch durchgeführt
